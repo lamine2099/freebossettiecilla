@@ -1,0 +1,12 @@
+.intestazione{ 
+background-color: yellow;
+text-align: center;
+border-style: solid;
+border-width: 10px;
+padding: 3px;
+}
+
+.nav-link{
+    font-size: 15px;
+    color: red;
+}
