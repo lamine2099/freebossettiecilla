@@ -10,3 +10,14 @@ padding: 3px;
     font-size: 15px;
     color: red;
 }
+.contenitore{
+    border-style: solid;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+.simbolo{
+    font-size: 40px;
+}
